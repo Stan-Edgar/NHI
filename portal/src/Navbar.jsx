@@ -22,7 +22,7 @@ export default function Nav() {
 
       {/* CTA button */}
       <div className="px-5 py-2 bg-[#1fcd39] text-white font-semibold rounded-xl text-[1.125rem] cursor-pointer">
-        <a href="./form.html" target="_blank" rel="noopener noreferrer">
+        <a href="/NHI/form.html" target="_blank" rel="noopener noreferrer">
             Register now
         </a>
       </div>

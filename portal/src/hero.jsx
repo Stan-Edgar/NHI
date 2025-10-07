@@ -18,7 +18,7 @@ export default function Hero() {
             </div>
             
             <div className='flex gap-[1rem] mb-[4.75rem] sm:mb-[6.5rem] font-manrope'>
-              <div className='px-5 py-2 bg-[#1fcd39] text-white font-semibold rounded-xl text-[1.125rem] cursor-pointer'><a href="./form.html" target='_blank'>Register now</a></div>
+              <div className='px-5 py-2 bg-[#1fcd39] text-white font-semibold rounded-xl text-[1.125rem] cursor-pointer'><a href="/NHI/form.html" target='_blank'>Register now</a></div>
               <div className='px-5 py-2 border-1 text-black rounded-xl text-[1.125rem] cursor-pointer"'>Learn More</div>
             </div>
 

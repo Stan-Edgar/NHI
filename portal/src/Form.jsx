@@ -71,7 +71,7 @@ function Form() {
   };
 
   return (
-    <div className="max-w-lg mx-auto mt-10 p-6 bg-white rounded-2xl shadow">
+    <div className="max-w-lg mx-auto mt-10 p-6 bg-white rounded-2xl shadow-[4px_16px_40px_5px_#00000024] border">
       <h2 className="text-2xl font-bold mb-4 text-center">Registration Form</h2>
 
       <form onSubmit={handleSubmit} className="space-y-4">
@@ -151,7 +151,7 @@ function Form() {
         {/* Upload Zone */}
         <div>
           <label className="block font-semibold mb-1">
-            Upload Social Security Card Photo
+            Upload Social Security Card Photo AND <br></br> Utility bill or Proof of Adress with JB Stamp
           </label>
 
           <div
